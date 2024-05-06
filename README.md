@@ -17,26 +17,26 @@ This repo contains two parts,
 
 training images
 <p align="center">
-    <img src="images/ec2/ec2_training.png" alt="centered image" />
+    <img src="images/ec2/ec2_training.PNG" alt="centered image" />
 </p>
 
 <p align="center">
-    <img src="images/ec2/ec2_training_.png" alt="centered image" />
+    <img src="images/ec2/ec2_training_.PNG" alt="centered image" />
 </p>
 
 <p align="center">
-    <img src="images/ec2/log.png" alt="centered image" />
+    <img src="images/ec2/log.PNG" alt="centered image" />
 </p>
 
 <p align="center">
-    <img src="images/ec2/output_.png" alt="centered image" />
+    <img src="images/ec2/output_.PNG" alt="centered image" />
 </p>
 
 ## Sagemaker training
 
 <p align="center">
-    <img src="images/sagemaker/log.png" alt="centered image" />
+    <img src="images/sagemaker/log.PNG" alt="centered image" />
 </p>
 <p align="center">
-    <img src="images/sagemaker/log_.png" alt="centered image" />
+    <img src="images/sagemaker/log_.PNG" alt="centered image" />
 </p>
