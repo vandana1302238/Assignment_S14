@@ -29,6 +29,10 @@ training images
 </p>
 
 <p align="center">
+    <img src="images/ec2/log_final.PNG" alt="centered image" />
+</p>
+
+<p align="center">
     <img src="images/ec2/output_.PNG" alt="centered image" />
 </p>
 
